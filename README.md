@@ -21,6 +21,7 @@ TODO:
             9. Set protected time: which is an uninterrupted time
         - consider to use time tracker
             - example: [Clockify](https://clockify.me/developer-time-tracking)
-4. try [Clockify](https://clockify.me/developer-time-tracking), see item above.
+4. Try [Clockify](https://clockify.me/developer-time-tracking), see item above.
+5. Create notes repository for grouping my notes
 
 
