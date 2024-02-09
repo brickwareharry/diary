@@ -1,6 +1,13 @@
 # diary repository
 Here records what I will do and what I have done below in reverse chronological order
-
+## 9 Feb 2024
+TODO:
+1.**(DONE)** covert pdf file of my CV to html via https://www.i2pdf 
+2.**(DONE)** diplay my CV in github page https://brickwareharry.github.io/harrycv/
+3. create user api
+4. update Update https://github.com/brickwareharry/brickwareharry
+4. Create notes repository for grouping my notes
+5. Try [Clockify](https://clockify.me/developer-time-tracking), see item above.
 ## 6 Feb 2024
 TODO:
 1. Update https://github.com/brickwareharry/brickwareharry
