@@ -10,9 +10,9 @@ TODO:
 5. Try [Clockify](https://clockify.me/developer-time-tracking), see item above.
 ## 6 Feb 2024
 TODO:
-1. Update https://github.com/brickwareharry/brickwareharry
-2. Try to use Pandoc to convert my CV in docx format into Markdown or html format for displaying it on a GitHub page. Details refer to https://github.com/brickwareharry/harrycv
-3. Check how developers manage time
+1. **(Moved/changed to latest)** Update https://github.com/brickwareharry/brickwareharry
+2. **(Moved/changed to latest)** Try to use Pandoc to convert my CV in docx format into Markdown or html format for displaying it on a GitHub page. Details refer to https://github.com/brickwareharry/harrycv
+3. **(Moved/changed to latest)** Check how developers manage time
     - What I did on 6 Feb 2024?
         - watched [Time Management Tips for Developers](https://youtu.be/QRVEuwOn6kI?si=3VB__Qh1yddI-nUu)
         - watched [How I Manage My Time - 10 Time Management Tips](https://youtu.be/iONDebHX9qk?si=erYfj2_GPUGR7bUb)
@@ -28,7 +28,7 @@ TODO:
             9. Set protected time: which is an uninterrupted time
         - consider to use time tracker
             - example: [Clockify](https://clockify.me/developer-time-tracking)
-4. Try [Clockify](https://clockify.me/developer-time-tracking), see item above.
-5. Create notes repository for grouping my notes
+4. **(Moved/changed to latest)** Try [Clockify](https://clockify.me/developer-time-tracking), see item above.
+5. **(Moved/changed to latest)** Create notes repository for grouping my notes
 
 
