@@ -4,7 +4,11 @@ Here records what I will do and what I have done below in reverse chronological 
 TODO:
 1. **(DONE)** covert pdf file of my CV to html via https://www.i2pdf 
 2. **(DONE)** diplay my CV in github page https://brickwareharry.github.io/harrycv/
-3. create user api
+3. **(in progress)** create user api
+    - get end points have been created with temporary hardcoded data
+    - will do other end points 
+    - will create contextDB with entity framework
+    - will create database
 4. update Update https://github.com/brickwareharry/brickwareharry
 4. Create notes repository for grouping my notes
 5. Try [Clockify](https://clockify.me/developer-time-tracking), see item above.
