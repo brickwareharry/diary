@@ -2,7 +2,7 @@
 Here records what I will do and what I have done below in reverse chronological order
 ## 20 Feb 2024
 TODO:
-1. **(in progress)** create user api
+1. **(in progress)** create [user api](https://github.com/brickwareharry/user_api)
     - **(DONE)** get end points have been created with temporary hardcoded data
     - will do other end points 
     - will create contextDB with entity framework
