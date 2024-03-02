@@ -5,6 +5,7 @@ TODO:
 1. **(in progress)** create [user api](https://github.com/brickwareharry/user_api)
     - **(DONE)** GET end points have been created with temporary hardcoded data
     - **(DONE - 3 Mar 2024)** POST end point with data annotations and validation
+    - **(DONE - 3 Mar 2024)** DELETE end point 
     - will do other end points 
     - will create contextDB with entity framework
     - will create database
