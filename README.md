@@ -3,7 +3,8 @@ Here records what I will do and what I have done below in reverse chronological 
 ## 20 Feb 2024
 TODO:
 1. **(in progress)** create [user api](https://github.com/brickwareharry/user_api)
-    - **(DONE)** get end points have been created with temporary hardcoded data
+    - **(DONE)** GET end points have been created with temporary hardcoded data
+    - **(DONE - 3 Mar 2024)** POST end point with data annotations and validation
     - will do other end points 
     - will create contextDB with entity framework
     - will create database
@@ -15,8 +16,7 @@ TODO:
 1. **(DONE)** covert pdf file of my CV to html via https://www.i2pdf 
 2. **(DONE)** diplay my CV in github page https://brickwareharry.github.io/harrycv/
 3. **(in progress)** create user api
-    - **(DONE)** GET end points have been created with temporary hardcoded data
-    - **(DONE - 3 Mar 2024)** POST end point with data annotations and validation
+    - GET end points have been created with temporary hardcoded data
     - will do other end points 
     - will create contextDB with entity framework
     - will create database
