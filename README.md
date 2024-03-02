@@ -1,5 +1,15 @@
 # diary repository
 Here records what I will do and what I have done below in reverse chronological order
+## 20 Feb 2024
+TODO:
+1. **(in progress)** create [user api](https://github.com/brickwareharry/user_api)
+    - **(DONE)** get end points have been created with temporary hardcoded data
+    - will do other end points 
+    - will create contextDB with entity framework
+    - will create database
+2. **(DONE)** do code challenge two_sum in [playground -> two_sum](https://github.com/brickwareharry/playground/tree/main/two_sum)
+3. **(DONE)** do code challenge demonstrating signle responsibility principle of SOLID in [playground -> signle_responsibility](https://github.com/brickwareharry/playground/tree/main/single_responsibility)
+4. Try [Clockify](https://clockify.me/developer-time-tracking)
 ## 9 Feb 2024
 TODO:
 1. **(DONE)** covert pdf file of my CV to html via https://www.i2pdf 
@@ -10,9 +20,9 @@ TODO:
     - will do other end points 
     - will create contextDB with entity framework
     - will create database
-4. update Update https://github.com/brickwareharry/brickwareharry
-4. Create notes repository for grouping my notes
-5. Try [Clockify](https://clockify.me/developer-time-tracking), see item above.
+4. **(DONE)** Update https://github.com/brickwareharry/brickwareharry
+4. **(DONE)** Create notes repository for grouping my notes
+5. **(Moved/changed to latest)** Try [Clockify](https://clockify.me/developer-time-tracking)
 ## 6 Feb 2024
 TODO:
 1. **(Moved/changed to latest)** Update https://github.com/brickwareharry/brickwareharry
