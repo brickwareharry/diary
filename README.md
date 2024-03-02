@@ -5,7 +5,8 @@ TODO:
 1. **(DONE)** covert pdf file of my CV to html via https://www.i2pdf 
 2. **(DONE)** diplay my CV in github page https://brickwareharry.github.io/harrycv/
 3. **(in progress)** create user api
-    - get end points have been created with temporary hardcoded data
+    - **(DONE)** GET end points have been created with temporary hardcoded data
+    - **(DONE - 3 Mar 2024)** POST end point with data annotations and validation
     - will do other end points 
     - will create contextDB with entity framework
     - will create database
