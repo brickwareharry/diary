@@ -6,6 +6,8 @@ TODO:
     - **(DONE)** GET end points have been created with temporary hardcoded data
     - **(DONE - 3 Mar 2024)** POST end point with data annotations and validation
     - **(DONE - 3 Mar 2024)** DELETE end point 
+    - **(impediment - 4 Mar 2024)** For creating NetwonsoftJson is not compatible with .NET 8
+            - **(in progress - 4 Mar 2024)** trying to use built-in System.Text.Json library in .NET 8
     - will do other end points 
     - will create contextDB with entity framework
     - will create database
