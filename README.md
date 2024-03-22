@@ -1,5 +1,11 @@
 # diary repository
 Here records what I will do and what I have done below in reverse chronological order
+## 23 March 2024
+TODO:
+1. Buid a home lab on Raspberry Pi for
+    - hosting microservices
+    - ftp server or NSA server
+
 ## 20 Feb 2024
 TODO:
 1. **(in progress)** create [user api](https://github.com/brickwareharry/user_api)
