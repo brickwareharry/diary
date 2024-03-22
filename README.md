@@ -5,6 +5,10 @@ TODO:
 1. Buid a home lab on Raspberry Pi for
     - hosting microservices
     - ftp server or NSA server
+2. Read:
+    - covariance and contravariance in dependency injection c# 
+    - Configuration in .NET for dependencu injection
+        - https://learn.microsoft.com/en-us/dotnet/core/extensions/dependency-injection
 
 ## 20 Feb 2024
 TODO:
