@@ -1,8 +1,17 @@
 # diary repository
 Here records what I will do and what I have done below in reverse chronological order
+
+## 8 April 2024
+TODO:
+1. Build a home lab on Raspberry pi
+    - install Ubuntu
+    - install Nginx (install two servers for comparison)
+    - install Apache (install two servers for comparison)
+
+
 ## 23 March 2024
 TODO:
-1. Buid a home lab on Raspberry Pi for
+1. Build a home lab on Raspberry Pi for
     - hosting microservices
     - ftp server or NSA server
 2. Read:
